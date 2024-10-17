@@ -4,13 +4,13 @@ import '@/styles/globals.css';
 
 const dMSerif = DM_Serif_Display({
   subsets: ['latin'],
-  weight: '400', // Specify the font weight you need
+  weight: '400',
   variable: '--font-dm-serif-display',
 });
 
 const inter = Inter({
   subsets: ['latin'],
-  weight: '400', // Specify the font weight you need
+  weight: '400',
   variable: '--font-inter',
 });
 
