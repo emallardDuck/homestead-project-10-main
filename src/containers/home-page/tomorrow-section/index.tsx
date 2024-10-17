@@ -12,10 +12,6 @@ const TomorrowSection = () => {
               height={350}
               width={450}
               loading="lazy"
-              style={{
-                width: '100%',
-                height: 'auto',
-              }}
             />
           </div>
         </div>
